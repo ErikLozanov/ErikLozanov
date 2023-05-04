@@ -1,3 +1,5 @@
+### Hello There! I'm Erik Lozanov.
+
 ![Alt Text](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 # 💫 About Me:
