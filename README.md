@@ -1,4 +1,4 @@
-[### Hi there 👋](https://media.tenor.com/z2xEZh-yijcAAAAC/welcome-bilbo.gif)
+https://media.tenor.com/z2xEZh-yijcAAAAC/welcome-bilbo.gif
 
 # 💫 About Me:
 🌱 I am a dedicated individual currently studying JavaScript. I have a passion for programming and am committed to mastering the language. I enjoy the challenge of problem-solving and take pride in my work. I truly hope that my determination and focus will serve me well in my studies and help me develop the skills necessary to pursue a career in web development.<br>
