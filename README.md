@@ -3,7 +3,7 @@
 ![Alt Text](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 # 💫About Me :
-🌱 I am a dedicated individual currently studying JavaScript. I have a passion for programming and am committed to mastering the language. I enjoy the challenge of problem-solving and take pride in my work. I truly hope that my determination and focus will serve me well in my studies and help me develop the skills necessary to pursue a career in web development.
+🌱 Passionate JavaScript and React enthusiast eager to embark on an exciting journey in the world of web development. 🚀 Looking forward to applying my skills and knowledge to real-world projects and pursuing a career in this dynamic field. Let's code our way to success together! 💻 #WebDev #JavaScript #React
 
 ⚡ Making mistakes are an essential part of learning.
 
